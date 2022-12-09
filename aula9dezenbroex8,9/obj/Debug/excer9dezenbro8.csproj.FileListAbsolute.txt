@@ -1,0 +1,12 @@
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\bin\Debug\excer9dezenbro8.exe.config
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\bin\Debug\excer9dezenbro8.exe
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\bin\Debug\excer9dezenbro8.pdb
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\obj\Debug\excer9dezenbro8.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\obj\Debug\excer9dezenbro8.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\obj\Debug\excer9dezenbro8.Form1.resources
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\obj\Debug\excer9dezenbro8.Properties.Resources.resources
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\obj\Debug\excer9dezenbro8.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\obj\Debug\excer9dezenbro8.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\obj\Debug\excer9dezenbro8.exe
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\obj\Debug\excer9dezenbro8.pdb
+C:\Users\samue\source\repos\excer9dezenbro8\excer9dezenbro8\obj\Debug\excer9dezenbro8.Form2.resources
